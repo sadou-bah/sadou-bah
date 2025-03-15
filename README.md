@@ -56,17 +56,11 @@
 <a href="https://www.imdb.com/title/tt30477968/">
 <img class="icon-image" height="100" src="https://github.com/sadou-bah/sadou-bah/blob/bilalmasood-patch-1/images/film3.png" alt="Numéro 10" /> 
 </a>
-<a href="https://www.allocine.fr/film/fichefilm_gen_cfilm=1000007022.html">
-<img class="icon-image" height="100" src="https://github.com/sadou-bah/sadou-bah/blob/bilalmasood-patch-1/images/film5.png" alt="Chien 51" /> 
-</a>
-
-<!--
-<a href="https://www.youracclaim.com/badges/07988f40-3669-4c54-bd67-efdc6a4e4915">
-<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-VaultA_v2.png" alt="HashiCorp Certified: Vault Associate" /> 
-</a>
--->
 <a href="https://www.youracclaim.com/badges/f575ff1c-550c-4157-b22e-83d28599e75e">
-<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-ConsulA_v2.png" alt="HashiCorp Certified: Consul Associate" /> 
+<img class="icon-image" height="100" src="https://github.com/sadou-bah/sadou-bah/blob/bilalmasood-patch-1/images/film4.png" alt="Mercato" /> 
+</a>
+<a href="https://www.imdb.com/title/tt32465945/">
+<img class="icon-image" height="100" src="https://github.com/sadou-bah/sadou-bah/blob/bilalmasood-patch-1/images/film5.png" alt="Chien 51" /> 
 </a>
 
 ## Me on the web
