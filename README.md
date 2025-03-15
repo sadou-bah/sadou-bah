@@ -56,10 +56,10 @@
 <a href="https://www.imdb.com/title/tt30477968/">
 <img class="icon-image" height="100" src="https://github.com/sadou-bah/sadou-bah/blob/bilalmasood-patch-1/images/film3.png" alt="Numéro 10" /> 
 </a>
-<a href="https://www.youracclaim.com/badges/f575ff1c-550c-4157-b22e-83d28599e75e">
+<a href="https://www.imdb.com/title/tt32465945/">
 <img class="icon-image" height="100" src="https://github.com/sadou-bah/sadou-bah/blob/bilalmasood-patch-1/images/film4.png" alt="Mercato" /> 
 </a>
-<a href="https://www.imdb.com/title/tt32465945/">
+<a href="https://www.allocine.fr/film/fichefilm_gen_cfilm=1000007022.html">
 <img class="icon-image" height="100" src="https://github.com/sadou-bah/sadou-bah/blob/bilalmasood-patch-1/images/film5.png" alt="Chien 51" /> 
 </a>
 
@@ -70,27 +70,6 @@
 - [SenTV](https://www.sentv.info/sadou-bah-lafrique-ne-peut-se-developper-sans-la-manne-de-sa-diaspora-et-ce-qui-me/) - (Senegal): feature article on my professional journey.
 - [IMDB](https://www.imdb.com/name/nm10050922/) | [mubi](https://mubi.com/fr/cast/sadou-bah-1) - movie credits from my time in the Cinema industry.
 
-<!--
-**Neutrollized/Neutrollized** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://activity-graph.herokuapp.com/graph?username=sadou-bah&theme=react-dark&hide_border=true&area=true)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-Other useful links for future use:
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Neutrollized&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neutrollized" />
-</a>
-
--->
+![](https://github.com/deep-diver/deep-diver/blob/output/github-contribution-grid-snake.svg)
