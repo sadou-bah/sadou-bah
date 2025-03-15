@@ -43,31 +43,22 @@
 
 ### What I'm really passionate about outside IT is acting
 
-<a href="https://www.amazon.ca/dp/B0C44SD7HL">
-<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/cover_TheBestKeptSecretsOfHashiCorpVault.jpg" alt="The Best Kept Secrets of HashiCorp Vault" /> 
+<a href="https://www.imdb.com/title/tt5886520/">
+<img class="icon-image" height="100" src="https://github.com/sadou-bah/sadou-bah/blob/bilalmasood-patch-1/images/film1.png" alt="The Runner" /> 
 </a>
-<a href="https://www.credly.com/badges/e49a3c40-fb30-44e7-bd88-623cb11c2e82/public_url">
-<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-Ambassador-2024.png" alt="HashiCorp Ambassador 2024" /> 
+<a href="https://www.imdb.com/title/tt7267530/">
+<img class="icon-image" height="100" src="https://github.com/sadou-bah/sadou-bah/blob/bilalmasood-patch-1/images/film2.png" alt="Bad Impulse" /> 
 </a>
-<a href="https://www.credly.com/badges/7dedcf1a-94b4-4300-b042-d2c5200fa811/public_url">
-<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-Ambassador-2023.png" alt="HashiCorp Ambassador 2023" /> 
+<a href="https://www.imdb.com/title/tt8962124/">
+<img class="icon-image" height="100" src="https://github.com/sadou-bah/sadou-bah/blob/bilalmasood-patch-1/images/TVShow1.png" alt="Emily in Paris" /> 
 </a>
-<a href="https://www.credly.com/badges/543bd386-12d7-4eb2-aa84-c3c8e739e3dd/public_url">
-<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-Ambassador-2022.png" alt="HashiCorp Ambassador 2022" /> 
+<a href="https://www.imdb.com/title/tt30477968/">
+<img class="icon-image" height="100" src="https://github.com/sadou-bah/sadou-bah/blob/bilalmasood-patch-1/images/film3.png" alt="Numéro 10" /> 
 </a>
-<a href="https://www.credly.com/badges/f734436d-8e61-456d-8313-59ea45ea543c/public_url">
-<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-CoreContributor-2022.png" alt="HashiCorp Core Contributor 2022" /> 
+<a href="https://www.allocine.fr/film/fichefilm_gen_cfilm=1000007022.html">
+<img class="icon-image" height="100" src="https://github.com/sadou-bah/sadou-bah/blob/bilalmasood-patch-1/images/film5.png" alt="Chien 51" /> 
 </a>
-<br>
-<a href="https://www.credly.com/badges/84d23ead-19fb-4ef1-94a4-0274680ee5d9/public_url">
-<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-TerraformPro_Alpha.png" alt="Alpha Tester: Terraform Authoring and Operations Professional" />
-</a>
-<a href="https://www.credly.com/badges/d4159e0d-3f4f-4c88-96d9-8ea9a1466ede/public_url">
-<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-TerraformA003.png" alt="HashiCorp Certified: Terraform Associate" /> 
-</a>
-<a href="https://www.credly.com/badges/0f177d02-1558-42cf-94b3-36b46d36451f/public_url">
-<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-VaultPro.png" alt="HashiCorp Certified: Vault Operations Professional" /> 
-</a>
+
 <!--
 <a href="https://www.youracclaim.com/badges/07988f40-3669-4c54-bd67-efdc6a4e4915">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-VaultA_v2.png" alt="HashiCorp Certified: Vault Associate" /> 
