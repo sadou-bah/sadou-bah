@@ -69,7 +69,3 @@
 - [Wikipedia](https://hi.wikipedia.org/s/phh5) - (India): Biographical entry
 - [SenTV](https://www.sentv.info/sadou-bah-lafrique-ne-peut-se-developper-sans-la-manne-de-sa-diaspora-et-ce-qui-me/) - (Senegal): feature article on my professional journey.
 - [IMDB](https://www.imdb.com/name/nm10050922/) | [mubi](https://mubi.com/fr/cast/sadou-bah-1) - movie credits from my time in the Cinema industry.
-
-![](https://activity-graph.herokuapp.com/graph?username=sadou-bah&theme=react-dark&hide_border=true&area=true)
-
-![](https://github.com/deep-diver/deep-diver/blob/output/github-contribution-grid-snake.svg)
