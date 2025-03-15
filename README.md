@@ -64,8 +64,8 @@
 </a>
 
 ## Me on the web
-- [DakarActu](https://www.dakaractu.com/DECOUVERTE-Sadou-Bah-Une-etoile-du-numerique-a-Hollywood_a231730.html) - (Senegal): feature article on my professional journey.
-- [Google Panel and News](https://g.co/kgs/zAm3mKa) | [2sTV](https://mubi.com/fr/cast/sadou-bah-1) - Invited as a guest on 2sTV
-- [Wikipedia](https://hi.wikipedia.org/s/phh5) - (India): Biographical entry
-- [SenTV](https://www.sentv.info/sadou-bah-lafrique-ne-peut-se-developper-sans-la-manne-de-sa-diaspora-et-ce-qui-me/) - (Senegal): feature article on my professional journey.
+- [Google Panel and News](https://g.co/kgs/zAm3mKa) | [2sTV](https://www.youtube.com/watch?v=RI_Taej57Yk) - Invited as a guest on 2sTV
+- [Wikipedia](https://hi.wikipedia.org/s/phh5) - (Hindi): Biographical entry
+- [DakarActu](https://www.dakaractu.com/DECOUVERTE-Sadou-Bah-Une-etoile-du-numerique-a-Hollywood_a231730.html) - (French): feature article on my professional journey.
+- [SenTV](https://www.sentv.info/sadou-bah-lafrique-ne-peut-se-developper-sans-la-manne-de-sa-diaspora-et-ce-qui-me/) - (French): feature article on my professional journey.
 - [IMDB](https://www.imdb.com/name/nm10050922/) | [mubi](https://mubi.com/fr/cast/sadou-bah-1) - movie credits from my time in the Cinema industry.
