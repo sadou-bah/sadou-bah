@@ -1,7 +1,5 @@
 [![](https://github.com/sadou-bah/sadou-bah/blob/bilalmasood-patch-1/chat_sadou.svg)](https://www.instagram.com/sadoubah__/)
 
-# Hi! I'm Sadou, Cloud Infrastructure Architect :cloud: or CIA :spy:
-
 ### I'm a big fan of Cloud Computing
 
 <a href="https://www.credly.com/badges/34ed759a-e796-4a31-a03a-96d4a33a44ca">
