@@ -1,0 +1,64 @@
+<svg width="650" height="320" viewBox="0 0 650 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.cdnfonts.com/css/aptos-corp');
+
+    text {
+      fill: #242424;
+      font-size: 19px; /* Increased by 5px */
+      font-family: 'Aptos Corp', sans-serif;
+    }
+
+    .bubble {
+      fill: #e9e9eb;
+      rx: 10;
+      ry: 10;
+    }
+
+    .dots {
+      font-size: 22px;
+      font-weight: bold;
+      animation: fade-in-out 1.5s infinite;
+    }
+
+    .msg {
+      opacity: 0;
+      transform: translateY(5px);
+      animation-fill-mode: forwards;
+    }
+
+    .msg-1 { animation: fade-in 1s ease-in-out 1.7s forwards; }
+    .msg-2 { animation: fade-in 1s ease-in-out 4.2s forwards; }
+    .msg-3 { animation: fade-in 1s ease-in-out 6.7s forwards; }
+    .msg-4 { animation: fade-in 1s ease-in-out 9.2s forwards; }
+
+    @keyframes fade-in-out {
+      0% { opacity: 0; }
+      50% { opacity: 1; }
+      100% { opacity: 0; }
+    }
+
+    @keyframes fade-in {
+      from { opacity: 0; transform: translateY(5px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+
+  <!-- Typing Bubble -->
+  <rect x="20" y="30" width="100" height="30" class="bubble" rx="10" ry="10"/>
+  <text x="35" y="50" class="dots">...</text>
+
+  <!-- Speech Bubbles for Messages with Adjusted Width -->
+  <rect x="20" y="80" width="600" height="40" class="bubble" rx="10" ry="10"/>
+  <text x="30" y="105" class="msg msg-1">Hi, I'm Sadou</text>
+
+  <rect x="20" y="130" width="600" height="40" class="bubble" rx="10" ry="10"/>
+  <text x="30" y="155" class="msg msg-2">Cloud Infrastructure Architect ☁️ or CIA 🕵️‍♂️(😄)</text>
+
+  <rect x="20" y="180" width="600" height="60" class="bubble" rx="10" ry="10"/>
+  <text x="30" y="205" class="msg msg-3" xml:space="preserve">DevOps consultant for public sectors, 
+certified from @aws and MS</text>
+
+  <rect x="20" y="250" width="600" height="40" class="bubble" rx="10" ry="10"/>
+  <text x="30" y="275" class="msg msg-4">Actor | Mentor and @GoogleCloudPlatform engaged specialist</text>
+
+</svg>
