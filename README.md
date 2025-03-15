@@ -17,17 +17,14 @@
 <a href="https://www.credly.com/badges/e2fb461f-34ca-4d98-b951-f042914a73a9">
 <img class="icon-image" height="100" src="https://github.com/sadou-bah/sadou-bah/blob/main/images/badge_AWS-AIF-%20C01.png" alt="AWS Certified AI Practitioner" />    
 </a>
-<a href="https://www.credly.com/badges/41aed626-c646-4ea6-a2bc-c37fd94baee0">
-<img class="icon-image" height="100" src="https://github.com/sadou-bah/sadou-bah/blob/main/images/badge_AWS-AIF-%20C01.png" alt="AWS Certified AI Practitioner Early Adopter" />    
-</a>
 <a href="https://www.credly.com/badges/99510262-45cb-4cf2-9fed-0109998c85e6">
 <img class="icon-image" height="100" src="https://github.com/sadou-bah/sadou-bah/blob/main/images/badge_AWS-CLF-C02.png" alt="AWS Certified Cloud Practitioner" />    
 </a>
 <br>
-<a href="https://www.credly.com/badges/fc0a8f12-e68c-415c-b6c0-9f3fb77b929d">
+<a href="https://www.credly.com/badges/66f9d752-ddcd-49c5-9bea-6b619cd7b0c6">
 <img class="icon-image" height="100" src="https://github.com/sadou-bah/sadou-bah/blob/main/images/badge_MS-346.png" alt="Microsoft 70-346 Managing Office 365 Identities and Requirements" />    
 </a>
-<a href="https://www.credly.com/badges/66f9d752-ddcd-49c5-9bea-6b619cd7b0c6">
+<a href="https://www.credly.com/badges/fc0a8f12-e68c-415c-b6c0-9f3fb77b929d">
 <img class="icon-image" height="100" src="https://github.com/sadou-bah/sadou-bah/blob/main/images/badge_AWS-AI%20Essentials.png" alt="AWS Partner: Generative AI Essentials" />    
 </a>
 
