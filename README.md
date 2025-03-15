@@ -23,6 +23,7 @@
 <a href="https://www.credential.net/99510262-45cb-4cf2-9fed-0109998c85e6">
 <img class="icon-image" height="100" src="https://github.com/sadou-bah/sadou-bah/blob/main/images/badge_AWS-CLF-C02.png" alt="AWS Certified Cloud Practitioner" />    
 </a>
+<br>
 <a href="https://www.credential.net/fc0a8f12-e68c-415c-b6c0-9f3fb77b929d">
 <img class="icon-image" height="100" src="https://github.com/sadou-bah/sadou-bah/blob/main/images/badge_MS-346.png" alt="Microsoft 70-346 Managing Office 365 Identities and Requirements" />    
 </a>
@@ -68,13 +69,12 @@
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-ConsulA_v2.png" alt="HashiCorp Certified: Consul Associate" /> 
 </a>
 
-## Me on the web 
-- [Google Developer Expert](https://developers.google.com/community/experts/directory?text=glen%20yu) | [Flickr](https://www.flickr.com/photos/2hit6) | [IMDb](https://www.imdb.com/name/nm3489135/) - movie credits from my time in the animation/VFX industry!
-- [Written Content](./writings.md) | [Presentations/Talks](./presentations.md)
-- [Announcing the Kubernetes "Shift Down" Security Paper](https://www.cncf.io/blog/2025/02/25/announcing-the-kubernetes-shift-down-security-paper/)
-- [Rundeck GCP Nodes Plugin](https://resources.rundeck.com/plugins/rundeck-gcp-nodes-plugin/)
-- [Finding Waldo app](https://findwaldo.thirdpig.io) - my "Where's Waldo?" object detector
-- [Free URL QR Code generator](https://qrcoder.thirdpig.io)
+## Me on the web
+- [DakarActu](https://www.dakaractu.com/DECOUVERTE-Sadou-Bah-Une-etoile-du-numerique-a-Hollywood_a231730.html) - (Senegal): feature article on my professional journey.
+- [Google Panel and News:](https://g.co/kgs/zAm3mKa) | [2sTV](https://mubi.com/fr/cast/sadou-bah-1) - Invited as a guest on 2sTV
+- [Wikipedia](https://hi.wikipedia.org/s/phh5) - (India): Biographical entry
+- [SenTV](https://www.sentv.info/ sadou-bah-lafrique-ne-peut-se-developper-sans-la-manne-de-sa-diaspora-et-ce-qui-me/) - (Senegal): feature article on my professional journey.
+- [IMDB](https://www.imdb.com/name/nm10050922/) | [mubi](https://mubi.com/fr/cast/sadou-bah-1) - movie credits from my time in the Cinema industry.
 
 <!--
 **Neutrollized/Neutrollized** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
